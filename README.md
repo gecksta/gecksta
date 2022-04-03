@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @gecksta
 - 👀 I’m interested in python and data analysis
 - 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on not much until I learn enough to be useful
+- 💞️ I’m looking to collaborate on...
 - 📫 How to reach me...
 
 <!---
